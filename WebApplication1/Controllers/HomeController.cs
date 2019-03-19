@@ -8,6 +8,8 @@ namespace WebApplication1.Controllers
 {
     public class HomeController : Controller
     {
+        //code here
+        //nguyen dinh anh
         public ActionResult Index()
         {
             return View();
